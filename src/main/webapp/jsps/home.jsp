@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to  Software Solutions. from Dev thru pipe Bengaluru,Karnataka </h1>
+<h1 align="center">Welcome to  Software Solutions. from test Bengaluru,Karnataka </h1>
 <h1 align="center">  Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
